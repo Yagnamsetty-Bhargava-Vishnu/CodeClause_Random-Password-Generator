@@ -9,4 +9,3 @@ def generate_password(length=8):
 
 password = generate_password(12)  
 print(password)
-1111
